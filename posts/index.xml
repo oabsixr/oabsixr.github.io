@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Oabsixr</title>
+    <link>https://oabsixr.github.io/posts/</link>
+    <description>Recent content in Posts on Oabsixr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Feb 2021 01:27:37 -0500</lastBuildDate>
+    
+	<atom:link href="https://oabsixr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introductions</title>
+      <link>https://oabsixr.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 02 Feb 2021 01:27:37 -0500</pubDate>
+      
+      <guid>https://oabsixr.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome. This is kind of my first attempt to setup a little blog to share little snippets of knowledge, and an experiment to pick up Hugo and play with Github Pages.&lt;/p&gt;
+&lt;p&gt;Hopefully I get around to stuffing more entries moving forward, after all the effort spent creating this page.&lt;/p&gt;
+&lt;p&gt;Until next time.&lt;/p&gt;
+&lt;p&gt;oabsixr&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
